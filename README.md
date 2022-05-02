@@ -14,10 +14,11 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 ```
 .
 ├── Data
-  ├── Datos de consumo (Articles-16585.xlsx
+  ├── Datos de consumo (Articles-16585.xlsx)
+  └── txt
 ├── Colab
 │   ├── Proyecto final.ipynb
 │   ├── Caudales_rio_maipo.py
 │   └── ...
-
+├── Docs/Minutas
 
