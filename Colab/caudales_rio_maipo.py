@@ -12,7 +12,7 @@ from tqdm import tqdm
 # %%
 
 caudales = pd.read_csv(os.path.join(
-        'datos hidricos',  'cr2_qflxDaily_2018.txt'), sep=",", decimal=".")
+        'Data',  'cr2_qflxDaily_2018.txt'), sep=",", decimal=".")
 
 info_estaciones = caudales.head(14).T.reset_index()
 info_estaciones.columns = info_estaciones.iloc[0, :]
@@ -49,8 +49,15 @@ for estacion in tqdm(estaciones_rio_maipo[1:]):
     database_rio_maipo = database_rio_maipo.append(caudal_estacion)
 
 # %% plots estaciones
-    
 info_estaciones = gpd.GeoDataFrame(
         info_estaciones, geometry=gpd.points_from_xy(
                 info_estaciones.longitud, info_estaciones.latitud))
 
+# %%
+print('la estación con información más reciente está:')
+print(database_rio_maipo.groupby('estacion')['dia'].min().max())
+print("""Se deja a discusión si filtramos la información hasta el 2014
+      ya que puede ser demasiado reicente""")
+
+database_rio_maipo.to_csv('Data_Procesada/caudales_rio_maipo.csv', index=False,
+                       sep=";")
