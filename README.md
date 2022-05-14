@@ -7,7 +7,7 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 + Super Servicios Sanitarios:arrow_right: [link]( www.siss.gob.cl)
 + Telegram Grupo 8 :arrow_right: [link](https://t.me/+4s-l5lRoUYoyNGNh)
 + Drive Grupo 8:arrow_right: [link](https://drive.google.com/drive/u/0/folders/1rM6gkgPJj0QzSdJE5wqqjWYgZrwgCO_a)
-+ + link 1 :arrow_right: [link](https://docs.google.com)
++ Notebook colab proyecto final  :arrow_right: [link](https://colab.research.google.com/github/grojasc/MIA_DS_project/blob/main/Colab/Proyecto%20final.ipynb)
 
 ## Árbol del repositorio.
 
