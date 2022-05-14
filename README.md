@@ -20,9 +20,9 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 ├── Data
 │   ├── Datos de consumo (Articles-16585.xlsx) Fuente: (http://www.siss.gob.cl/appsiss/historico/w3-propertyvalue-6377.html)
 │   ├── Poblacion_region.csv Fuente: (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
-│   ├──cr2_qflxDaily_2018_stations Fuente: (https://www.cr2.cl/datos-de-caudales/)
-│   ├──cr2_qflxDaily_2018_description Fuente: (https://www.cr2.cl/datos-de-caudales/)
-│   ├──cr2_qflxDaily_2018.txt Fuente: (https://www.cr2.cl/datos-de-caudales/)
+│   ├── cr2_qflxDaily_2018_stations Fuente: (https://www.cr2.cl/datos-de-caudales/)
+│   ├── cr2_qflxDaily_2018_description Fuente: (https://www.cr2.cl/datos-de-caudales/)
+│   ├── cr2_qflxDaily_2018.txt Fuente: (https://www.cr2.cl/datos-de-caudales/)
 │   └── Poblacion_comuna.csv  Fuente: (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
 ├── Colab
 │   ├── Proyecto final.ipynb
