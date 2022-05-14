@@ -15,8 +15,8 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 .
 ├── Data
   ├── Datos de consumo (Articles-16585.xlsx
-  ├── Poblacion_region.csv ( Fuente: [link](https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
-  └── Poblacion_comuna.csv ( Fuente: [link](https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
+  ├── Poblacion_region.csv Fuente: (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
+  └── Poblacion_comuna.csv  Fuente: (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
 ├── Colab
 │   ├── Proyecto final.ipynb
 │   ├── Caudales_rio_maipo.py
