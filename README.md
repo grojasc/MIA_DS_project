@@ -9,6 +9,7 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 + Drive Grupo 8:arrow_right: [link](https://drive.google.com/drive/u/0/folders/1rM6gkgPJj0QzSdJE5wqqjWYgZrwgCO_a)
 + Notebook colab proyecto final  :arrow_right: [link](https://colab.research.google.com/drive/1czCmEaC2OPSoMO8K8rT_TUvAiyXX0rYZ)
 + Aguas Andinas reportes :arrow_right: [link](https://sustentabilidad.aguasandinas.cl/documents/33547/35846/Reporte+Integrado+Aguas+Andinas+2019.pdf/cd2cdfeb-5338-66ae-7bd0-8cb06a0f20ca?t=1590688082827)
++ Miro colaborativo ➡️ [link](https://miro.com/app/board/uXjVO0YbVvA=/)
 
 
 ## Árbol del repositorio.
