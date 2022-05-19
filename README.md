@@ -30,7 +30,8 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 │   ├── Glaciares.shp  Fuente:  http://www.geoportal.cl/geoportal/catalog/search/resource/resumen.page?uuid={99BCC048-47F7-4FD0-8C6D-FB9DDB66A789}
 │   ├── caudales_rio_maipo.csv Fuente: (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
 │   ├── Crecimiento PIB % Mundial.xlsx Fuente : (https://datos.bancomundial.org/indicator/NY.GDP.MKTP.KD.ZG)
-        Crecimiento_población_mundial.xlsx Fuente : (https://datos.bancomundial.org/indicator/SP.POP.GROW)
+│   ├── Crecimiento_población_mundial.xlsx Fuente : (https://datos.bancomundial.org/indicator/SP.POP.GROW)
+│   ├── Precios de petroleo.xlsx Fuente: (https://si3.bcentral.cl/)
 │   └── Poblacion_comuna.csv  Fuente: (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
 ├── Colab
 │   ├── Proyecto final.ipynb
