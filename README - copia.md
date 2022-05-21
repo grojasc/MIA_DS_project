@@ -16,11 +16,21 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 
 ```
 .
+├── Código
+│   ├── Caudales_rio_maipo.py
+│   │   ├──
+│   │   └── 
+│   ├── Caudales_rio_maipo.py
+│   │   ├──
+│   │   └── 
+│   │
+│   └── Proyecto final.ipynb
+│       ├──
+│       └── 
 ├── Data Procesada
 │   ├── Regiones.csv Fuente : (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
 │   ├── caudales_2018-2021.csv
 │   └── Comunas.csv Fuente : (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
-
 ├── Data
 │   ├── Datos de consumo (Articles-16585.xlsx) Fuente: (http://www.siss.gob.cl/appsiss/historico/w3-propertyvalue-6377.html)
 │   ├── Poblacion_region.csv Fuente: (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
@@ -33,9 +43,5 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 │   ├── Crecimiento_población_mundial.xlsx Fuente : (https://datos.bancomundial.org/indicator/SP.POP.GROW)
 │   ├── Precios de petroleo.xlsx Fuente: (https://si3.bcentral.cl/)
 │   └── Poblacion_comuna.csv  Fuente: (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
-├── Colab
-│   ├── Proyecto final.ipynb
-│   ├── Caudales_rio_maipo.py
-│   └── ...
-├── Docs/Minutas
+└──  Docs/Minutas
 
