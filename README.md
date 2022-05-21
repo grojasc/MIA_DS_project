@@ -29,19 +29,24 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 ```
 .
 ├── Código
-│   ├── Caudales_rio_maipo.py
-│   │   ├──
-│   │   └── 
-│   ├── Caudales_rio_maipo.py
-│   │   ├──
-│   │   └── 
+│   ├── Preprocesamiento
+│   │   ├──caudales_rio_maipo.py
+│   │   ├──precipitacion_rio_maipo.py
+│   │   ├──datos_demanda.py
+│   │   ├──NotebookDesarrolloenR_preprocesamientodeDatos.html
+│   │   └── temperatura_rio_maipo.py
+│   ├── Análisis exploratorio
+│   │   ├──20220514 Trabajo Introduccion DS 2.ipynb
+│   │   └── caudales_manzano.py
 │   │
-│   └── Proyecto final.ipynb
-│       ├──
-│       └── 
+│   └── Modelamiento
+│       ├── analisis_oferta_agua.py
+│       ├── NotebookDesarrolloenR_modelamientocaudalesydemanda.html
+│       └── regresion_demanda.py
 ├── Data Procesada
 │   ├── Regiones.csv Fuente : (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
 │   ├── caudales_2018-2021.csv
+│   ├── Data regresión
 │   └── Comunas.csv Fuente : (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
 ├── Data
 │   ├── Datos de consumo (Articles-16585.xlsx) Fuente: (http://www.siss.gob.cl/appsiss/historico/w3-propertyvalue-6377.html)
@@ -116,7 +121,19 @@ Algunas de las herramientas y lenguajes utilizados:
  
   Según nuestro pronóstico se espera que el año 2030 se utilice la mitad del agua disponible del río maipo para consumo humano. Para el 2058, se utilizará el 100%.
 El análisis exploratorio nos muestra que las temperaturas se han elevado, las precipitaciones han disminuido lo que en resumen se refleja en bajas e los caudales que nos proveen de agua.
-Recomendaciones: Mejoras en políticas públicas.
+
+    
+ La pregunta que nos hicimos al comienzo del trabajo fue: ¿Cuándo se tendrá que racionar el agua en Chile?, en el camino decidimos acotar la investigación a la Región Metropolitana debido a la diversidad de climas que hay a lo largo de nuestro país lo que podía complejizar mucho el análisis en términos climatológicos. Además, escogimos esta región porque es la que concentra la mayor cantidad de habitantes en nuestro país. 
+
+Luego de analizar diversas bases de datos de muchas fuentes distintas, pudimos concluir 
+según nuestro pronóstico si se mantiene los patrones de consumo de agua potable actuales, se espera que el año 2030 estemos consumiendo aproximadamente la mitad del agua disponible del Río Maipo, para consumo humano (no industrial). 
+Por otra parte, llegamos a la conclusión de que para el 2058 año se utilizará el 100% del caudal del río.
+
+    
+ El análisis exploratorio nos muestra que las temperaturas se han elevado en la Región al igual que en el resto del país y que las precipitaciones han disminuido, esto estaría afectando de manera directa el caudal del agua. 
+
+Si bien este análisis y el modelo desarrollado explican parte de la demanda por el agua, la mayor demanda proviene del sector agrícola y los rubros económicos asociados a la  minerías, sector agropecuario y sector industrial. Por lo tanto, si bien es importante hacer consciente a la ciudadanía de la crisis hidria en la que nos encontramos, es tanto o más importante desarrollar estrategias incentiven a que las empresas inviertan en tecnologías que lleven a disminuir el agua en sus procesos.
+
 
     
 
