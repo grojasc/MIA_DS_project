@@ -33,7 +33,7 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 │   │   ├──caudales_rio_maipo.py
 │   │   ├──precipitacion_rio_maipo.py
 │   │   ├──datos_demanda.py
-│   │   ├──NotebookDesarrolloenR_preprocesamientodeDatos.r
+│   │   ├──NotebookDesarrolloenR_preprocesamientodeDatos.html
 │   │   └── temperatura_rio_maipo.py
 │   ├── Análisis exploratorio
 │   │   ├──20220514 Trabajo Introduccion DS 2.ipynb
@@ -41,7 +41,7 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 │   │
 │   └── Modelamiento
 │       ├── analisis_oferta_agua.py
-│       ├── NotebookDesarrolloenR_modelamientocaudalesydemanda.r
+│       ├── NotebookDesarrolloenR_modelamientocaudalesydemanda.html
 │       └── regresion_demanda.py
 ├── Data Procesada
 │   ├── Regiones.csv Fuente : (https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion)
