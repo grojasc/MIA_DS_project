@@ -58,17 +58,7 @@ Proyecto 2022-1 MIA UC, Intro Data Science
 └──  Docs/Minutas
 
 ```
-
-
-
-
-
-
-
-
-
-
-<!-- ABOUT THE PROJECT -->
+ <!-- ABOUT THE PROJECT -->
 ## Sobre el Proyecto
 
 Tras 13 años de sequía, recientemente se dio a conocer un protocolo elaborado por la Superintendencia de Servicios Sanitarios (SiSS),
@@ -121,9 +111,6 @@ Algunas de las herramientas y lenguajes utilizados:
     
 + Sistematización de información sociodemográfica como crecimiento demográfico, zonas de residencia y tasas de pobreza de la región metropolitana.
     
-<a href="https://github.com/grojasc/image">
-    <img src="MIA-DS 2022 - Frame 16.jpg" alt="Logo" width="800" height="800">
-</a>
 
 
 
