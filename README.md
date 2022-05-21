@@ -111,6 +111,14 @@ Algunas de las herramientas y lenguajes utilizados:
     
 + Sistematización de información sociodemográfica como crecimiento demográfico, zonas de residencia y tasas de pobreza de la región metropolitana.
     
+    
+ ## Conclusiones y Recomendaciones
+ 
+  Según nuestro pronóstico se espera que el año 2030 se utilice la mitad del agua disponible del río maipo para consumo humano. Para el 2058, se utilizará el 100%.
+El análisis exploratorio nos muestra que las temperaturas se han elevado, las precipitaciones han disminuido lo que en resumen se refleja en bajas e los caudales que nos proveen de agua.
+Recomendaciones: Mejoras en políticas públicas.
+
+    
 
 
 
